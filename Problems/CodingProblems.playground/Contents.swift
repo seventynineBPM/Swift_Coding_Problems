@@ -4,4 +4,5 @@ import UIKit
 //FindMissingNumbers.run()
 //LongestContiguousSequence.run()
 //MaximumSumSubarray.run()
-WineShelf.run()
+//WineShelf.run()
+CoinChanging.run()
